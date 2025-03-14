@@ -1,4 +1,6 @@
 from ghcr.io/open-webui/open-webui:main
+
+#APT-PLACE-HOLDER
 run apt update
 
 run apt install -y nginx curl
